@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function FeaturesPage() {
   return (
     <main className="container py-24 space-y-32">
-      {/* Hero */}
+      
       <section className="text-center max-w-3xl mx-auto">
         <h1 className="text-4xl md:text-5xl font-semibold tracking-tight">
           Intelligent Data Exploration <br />

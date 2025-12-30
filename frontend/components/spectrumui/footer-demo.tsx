@@ -20,12 +20,13 @@ import {
 export default function FooterDemo() {
   return (
     <footer className="border-t border-white/10 bg-background text-foreground">
-      <div className="mx-auto max-w-6xl px-1 py-5">
+     <div className="mx-auto max-w-7xl px-6 py-16">
 
-       <div className="grid gap-12 md:grid-cols-2 lg:grid-cols-6 items-start">
+       <div className="grid gap-12 sm:grid-cols-2 lg:grid-cols-4 items-start">
 
           <div>
-            <h2 className="text-2xl font-semibold">
+            <h2 className="text-2xl font-semibold
+            ">
               Stay Connected
             </h2>
             <p className="mt-3 text-sm text-muted-foreground max-w-sm">
@@ -60,6 +61,7 @@ export default function FooterDemo() {
               <a href="/features" className="block hover:text-primary">Features</a>
               <a href="/playground" className="block hover:text-primary">Playground</a>
               <a href="/pricing" className="block hover:text-primary">Pricing</a>
+              
             </nav>
           </div>
 
@@ -70,8 +72,8 @@ export default function FooterDemo() {
             <address className="space-y-2 text-sm not-italic text-muted-foreground">
               <p>123 Innovation Street</p>
               <p>Tech City, TC 12345</p>
-              <p>Phone: (123) 456-7890</p>
-              <p>Email: hello@aisql.com</p>
+              <p>Phone: (+91) 9100697101</p>
+              <p>Email: zaydthirteen@gmail.com</p>
             </address>
           </div>
 

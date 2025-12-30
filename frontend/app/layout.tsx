@@ -38,6 +38,7 @@ export default function RootLayout({
     { name: "Features", link: "/features" },
     { name: "Playground", link: "/playground" },
     { name: "Pricing", link: "/pricing" },
+    { name: "Contact", link: "/contact" },
   ];
 
   return (
