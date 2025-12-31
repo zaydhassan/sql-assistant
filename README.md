@@ -60,13 +60,13 @@ https://sql-assistant-c410.onrender.com
 
 Client (Next.js)
 |
-v
+
 FastAPI Backend
 |
-v
+
 PostgreSQL Database
 |
-v
+
 Stripe Webhooks (Subscription Updates)
 
 
